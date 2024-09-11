@@ -31,10 +31,12 @@ i {
 
 html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 body {
-    background-color: #1DA8CD;
+    overflow-x: hidden;
+    background: #1DA8CD;
 }
 
 #myBtn {
