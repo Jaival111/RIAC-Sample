@@ -4,5 +4,5 @@
 
 This page was made under given task by interviewer.<br>
 
-Elements used for making this page are **HTML** and **CSS**.<br>
+Elements used for making this page are **HTML**, **CSS** & **JavaScript**.<br>
 The page is fully responsive, can be operated on small screens.
